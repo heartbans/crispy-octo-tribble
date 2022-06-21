@@ -5,11 +5,6 @@
     ""
   ],
   "env": {
-    "PROTOCOL": {
-      "description": "V OR L",
-      "value": "vmess",
-      "required": true
-    },
     "UUID": {
       "description": "UUID",
       "value": "",
